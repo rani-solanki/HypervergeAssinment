@@ -1,0 +1,22 @@
+{
+  "name": "problem_statement1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "input.js",
+  "scripts": {
+    "test": "script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rani-solanki/HypervergeAssinment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rani-solanki/HypervergeAssinment/issues"
+  },
+  "homepage": "https://github.com/rani-solanki/HypervergeAssinment#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
