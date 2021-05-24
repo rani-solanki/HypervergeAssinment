@@ -1,6 +1,5 @@
 const fs = require('fs')
 const readFile = require("readline-sync")
-var utils = require('utils').string;
 
 Allparking = []
 array = []
@@ -22,7 +21,6 @@ function cammnds(input) {
 
     console.log(Allparking)
 }
-
 
 for (var i = 0; i < array.length; i++) {
     var element = array.split(" ")[0];
