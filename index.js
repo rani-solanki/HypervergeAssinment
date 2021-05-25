@@ -37,7 +37,7 @@ function commands(input, array) {
             }
             break;
         case "park":
-            console.log("Sorry, parking lot is full", 1)
+            console.log("Sorry, parking lot is full", input.split(" ")[1])
             break;
         
         case "leave":
